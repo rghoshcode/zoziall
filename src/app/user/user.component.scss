@@ -1,10 +1,14 @@
 .image{
-    width: 55%
+    width: 100%
   }
- .userdashboard{
-  
-  padding: 10px;
-  
 
- } 
-  
+ .post-author-avatar {
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  border-radius: 100px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
+  display: block;
+}
