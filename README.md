@@ -1,3 +1,7 @@
+![Alt text](https://github.com/rghoshcode/zoziall/blob/master/2018-04-12%2017_37_04-Zoziall.jpg)
+-
+![Alt text](https://github.com/rghoshcode/zoziall/blob/master/2018-04-12%2017_37_57-Zoziall.jpg)
+
 # Zoziall
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
